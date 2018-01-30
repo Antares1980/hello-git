@@ -1,4 +1,4 @@
-README.md file
+README.md file for the project
 
 Author: Japv
 Alias: Antares1980
