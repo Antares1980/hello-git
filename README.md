@@ -12,9 +12,9 @@ git push -u origin master
 
 #Push an existing repository from the command line
 git remote add origin https://github.com/Antares1980/hello-git.git
+
    git push -u origin master
       Or
    git push origin master
 ==================================================================
-
 
