@@ -30,4 +30,5 @@ jobs:
     - name: Run a multi-line script
       run: |
         echo Installing mdl...
-        gem install mdl
+        bundle update
+        bundle exec mdl .
